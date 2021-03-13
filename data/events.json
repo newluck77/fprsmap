@@ -1,0 +1,209 @@
+[
+  {
+    "id": 17482,
+    "title": ":de: Online-Treffen in Hamburg f\u00fcr alle Fairphoner*innen",
+    "fancy_title": ":de: Online-Treffen in Hamburg f\u00fcr alle Fairphoner*innen",
+    "slug": "online-treffen-in-hamburg-fur-alle-fairphoner-innen",
+    "posts_count": 461,
+    "reply_count": 216,
+    "highest_post_number": 465,
+    "image_url": "https://forum.fairphone.com/uploads/default/original/2X/b/b8c2e1f8d93dad1764b3111f04dcd5a7fe57f9a7.png",
+    "created_at": "2016-05-06T16:30:01.540Z",
+    "last_posted_at": "2021-03-04T16:13:00.992Z",
+    "bumped": true,
+    "bumped_at": "2021-03-04T16:13:00.992Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "unicode_title": "\ud83c\udde9\ud83c\uddea Online-Treffen in Hamburg f\u00fcr alle Fairphoner*innen",
+    "tags": [
+      "\ud83c\udde9\ud83c\uddea",
+      "localcommunities",
+      "germany",
+      "meetup",
+      "videoconference",
+      "hamburg"
+    ],
+    "views": 30693,
+    "like_count": 681,
+    "has_summary": true,
+    "last_poster_username": "phonefrog",
+    "category_id": 42,
+    "pinned_globally": false,
+    "featured_link": null,
+    "event": {
+      "start": "2021-03-15T17:30:00+00:00",
+      "timezone": "Europe/Berlin",
+      "version": 7
+    },
+    "event_going_total": 0,
+    "location": {
+      "street": "ballindamm",
+      "postalcode": "20095",
+      "city": "Hamburg",
+      "countrycode": "de",
+      "geo_location": {
+        "lat": 53.5538759,
+        "lon": 9.9981383,
+        "address": "Ballindamm, Altstadt, Hamburg-Mitte, Hamburg, 20095, Germany",
+        "countrycode": "de",
+        "city": "Hamburg",
+        "state": null,
+        "country": "Germany",
+        "postalcode": "20095",
+        "boundingbox": [
+          "53.5528895",
+          "53.5548083",
+          "9.996514",
+          "9.9996597"
+        ],
+        "type": "tertiary",
+        "selected": true,
+        "zoomTo": true
+      },
+      "name": "Jitsi Meet"
+    },
+    "has_accepted_answer": false,
+    "posters": [
+      {
+        "extras": null,
+        "description": "Original Poster",
+        "user_id": 7516,
+        "primary_group_id": null
+      },
+      {
+        "extras": null,
+        "description": "Frequent Poster",
+        "user_id": 324,
+        "primary_group_id": null
+      },
+      {
+        "extras": null,
+        "description": "Frequent Poster",
+        "user_id": 3945,
+        "primary_group_id": 45
+      },
+      {
+        "extras": null,
+        "description": "Frequent Poster",
+        "user_id": 13986,
+        "primary_group_id": 45
+      },
+      {
+        "extras": "latest",
+        "description": "Most Recent Poster",
+        "user_id": 18361,
+        "primary_group_id": null
+      }
+    ]
+  },
+  {
+    "id": 19285,
+    "title": ":de: M\u00fcnchen Fairphoners",
+    "fancy_title": ":de: M\u00fcnchen Fairphoners",
+    "slug": "munchen-fairphoners",
+    "posts_count": 236,
+    "reply_count": 132,
+    "highest_post_number": 252,
+    "image_url": null,
+    "created_at": "2016-06-24T10:46:50.917Z",
+    "last_posted_at": "2021-02-22T20:50:53.490Z",
+    "bumped": true,
+    "bumped_at": "2021-02-22T20:50:53.490Z",
+    "archetype": "regular",
+    "unseen": false,
+    "pinned": false,
+    "unpinned": null,
+    "visible": true,
+    "closed": false,
+    "archived": false,
+    "bookmarked": null,
+    "liked": null,
+    "unicode_title": "\ud83c\udde9\ud83c\uddea M\u00fcnchen Fairphoners",
+    "tags": [
+      "\ud83c\udde9\ud83c\uddea",
+      "localcommunities",
+      "meetfairphone3",
+      "m\u00fcnchen"
+    ],
+    "views": 17229,
+    "like_count": 492,
+    "has_summary": true,
+    "last_poster_username": "Volker",
+    "category_id": 42,
+    "pinned_globally": false,
+    "featured_link": null,
+    "event": {
+      "start": "2021-03-29T17:30:00+00:00",
+      "timezone": "Europe/Berlin",
+      "version": 13,
+      "rsvp": true,
+      "going_max": 10,
+      "going": [
+        "Volker"
+      ]
+    },
+    "event_going_total": 1,
+    "location": {
+      "name": "Jitsi Meet",
+      "geo_location": {
+        "lat": "48.1371079",
+        "lon": "11.5753822",
+        "address": "Munich, Bavaria, Germany",
+        "countrycode": "de",
+        "city": "Munich",
+        "state": "Bavaria",
+        "country": "Germany",
+        "postalcode": "",
+        "boundingbox": [
+          "48.0616244",
+          "48.2481162",
+          "11.360777",
+          "11.7229083"
+        ],
+        "type": "administrative",
+        "zoomTo": "true",
+        "selected": "true"
+      }
+    },
+    "has_accepted_answer": false,
+    "posters": [
+      {
+        "extras": null,
+        "description": "Original Poster",
+        "user_id": 11209,
+        "primary_group_id": null
+      },
+      {
+        "extras": null,
+        "description": "Frequent Poster",
+        "user_id": 324,
+        "primary_group_id": null
+      },
+      {
+        "extras": null,
+        "description": "Frequent Poster",
+        "user_id": 5151,
+        "primary_group_id": null
+      },
+      {
+        "extras": null,
+        "description": "Frequent Poster",
+        "user_id": 4312,
+        "primary_group_id": null
+      },
+      {
+        "extras": "latest",
+        "description": "Most Recent Poster",
+        "user_id": 6808,
+        "primary_group_id": 45
+      }
+    ]
+  }
+]
